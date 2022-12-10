@@ -1,0 +1,17 @@
+delete 0
+delete 1
+append 1
+delete 0
+insert 5 1
+insert 8 0
+append 1
+insert 5 0
+delete 1
+print
+append 3
+append 4
+append 6
+append 7
+delete 5
+insert 11 3
+print
